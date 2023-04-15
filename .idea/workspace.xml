@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c413896-dd21-46df-9c54-25182de63ac5" name="Changes" comment="First example of Serenity report">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/glue_code/TestFeatureGlue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/starter/AppStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starters/CatFacts.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starters/CucumberStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/glue_code/TestFeatureGlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/glue_code/TestFeatureGlue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/starters/CatFacts.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/starters/CatFacts.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -200,8 +198,16 @@
       <workItem from="1680963164596" duration="893000" />
       <workItem from="1680964072179" duration="2145000" />
       <workItem from="1680966234825" duration="3460000" />
-      <workItem from="1680970614776" duration="8783000" />
+      <workItem from="1680970614776" duration="18857000" />
     </task>
+    <task id="LOCAL-00001" summary="First example of Serenity report">
+      <created>1680984744053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680984744053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +222,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/glue_code/TestFeatureGlue.java</url>
-          <line>31</line>
+          <line>40</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

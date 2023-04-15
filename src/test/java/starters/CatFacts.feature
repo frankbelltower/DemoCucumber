@@ -9,7 +9,7 @@ Feature: Cat Facts Positive Cases
     And status code is 200
 
   Scenario: Response Structure Check
-    Then the response <structure> contains
+    Then the response structure contains
     |fact     |
     |length   |
 
